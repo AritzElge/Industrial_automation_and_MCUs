@@ -1,0 +1,2 @@
+# Industrial_automation_and_MCUs
+Microcontroller solution for industrial automation
