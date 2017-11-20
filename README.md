@@ -1,2 +1,2 @@
 # Industrial_automation_and_MCUs
-Microcontroller solution for industrial automation
+Industrial enviroment support for Microcontrollers & Grafcet metodology adaptation to C++ programming languaje. 
